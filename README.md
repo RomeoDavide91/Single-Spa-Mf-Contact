@@ -43,5 +43,7 @@ And add import frontend route in layout html (microfrontend-layout.html)
 ```
 ---
 You can get more information on the following link:
+https://medium.com/@romeodavide91/single-spa-framework-microfrontend-parcel-2ce73404a9eb
 
-https://medium.com/@romeodavide91/single-spa-framework-ec9a1160f4ad
+For download repo
+https://github.com/RomeoDavide91/Single-Spa-Mf-Contact
